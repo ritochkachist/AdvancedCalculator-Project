@@ -5,7 +5,7 @@ print("Hello! Welcome to the 'Advanced Calculator' program!\n")
 
 choice = 0
 while choice != 2:
-  print("""We have the following operators:
+  print("""We have the following operators: 
   1. Addition (+)
   2. Subtraction (-)
   3. Multiplication (*)
